@@ -18,16 +18,16 @@ downloadRink...  UnityRoomRink...
 #### ゲーム進行
 
 タイトルから「はじめる」を選択　　　－＞　　　セレクト画面で、項目を選択
-<img src="https://github.com/175B005/Morinohi/blob/master/d2.png?raw=true" width="360px"><img src="https://github.com/175B005/Morinohi/blob/master/d1.png?raw=true" width="360px">
+<img src="https://github.com/175B005/Morinohi/blob/master/d2.png?raw=true" width="360px">  <img src="https://github.com/175B005/Morinohi/blob/master/d1.png?raw=true" width="360px">
 
 
 「カード一覧」ではデッキの編成ができる。　　　　　　　　もりを脅かすドラゴンとバトル！
-<img src="https://github.com/175B005/Morinohi/blob/master/d3.png?raw=true" width="360px"><img src="https://github.com/175B005/Morinohi/blob/master/d4.png?raw=true" width="360px">
+<img src="https://github.com/175B005/Morinohi/blob/master/d3.png?raw=true" width="360px">  <img src="https://github.com/175B005/Morinohi/blob/master/d4.png?raw=true" width="360px">
 
 
 リザルト画面で結果を見よう　最高得点１０００点　　　　ランキング登録　は　文化祭版のみ　ボタンはおせるよ。
 
-<img src="https://github.com/175B005/Morinohi/blob/master/d5.png?raw=true" width="360px"><img src="https://github.com/175B005/Morinohi/blob/master/d6.png?raw=true" width="360px">
+<img src="https://github.com/175B005/Morinohi/blob/master/d5.png?raw=true" width="360px">  <img src="https://github.com/175B005/Morinohi/blob/master/d6.png?raw=true" width="360px">
 
 
 ### 使用アセット
