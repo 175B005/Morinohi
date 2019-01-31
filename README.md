@@ -18,7 +18,7 @@ downloadRink...  UnityRoomRink...
 #### ゲーム進行
 
 タイトルから「はじめる」を選択　　　－＞　　　セレクト画面で、項目を選択
-
+<img src="https://github.com/175B005/Morinohi/blob/master/d2.png?raw=true" width="320px">
 ![](https://github.com/175B005/Morinohi/blob/master/d2.png?raw=true) ![](https://github.com/175B005/Morinohi/blob/master/d1.png?raw=true)
 
 「カード一覧」ではデッキの編成ができる。　　　　　　　　もりを脅かすドラゴンとバトル！
