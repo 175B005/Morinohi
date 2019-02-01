@@ -3,10 +3,12 @@
 #### 専門学校デジタルアーツ東京　２０１９　０１　３１  
 #### 作成　ゲーム学科２年 二名　イラスト学科一年 一名
 
-downloadRink...  UnityRoomRink...
+[スマホ版 Android 8.0]() 
+
 
 ### ゲーム紹介
 
+[UnityRoom ゲーム投稿サイト](https://unityroom.com/games/morinohi_datgames)
 
 
 ### 遊び方
