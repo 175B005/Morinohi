@@ -34,6 +34,11 @@
 
 ### 使用アセット
 
+<li>[Anima2D](https://assetstore.unity.com/packages/essentials/unity-anima2d-79840) : アニメーションの画像切り分け補助</li>
+<li>[Vibrant Effect Textures Sample](https://assetstore.unity.com/packages/2d/textures-materials/abstract/vibrant-effect-textures-sample-35514) : カードのエフェクト</li>
+<li>[魔王魂](https://maoudamashii.jokersounds.com/) : BGM</li>
+<li>[効果音ラボ](https://soundeffect-lab.info/) : SE</li>
+
 ### イラスト　画集
 
 <img src="https://github.com/175B005/Morinohi/blob/master/%E3%82%82%E3%82%8A%E3%81%AE%E6%97%A5.png?raw=true" width="320px" title="パッケージデザイン">
