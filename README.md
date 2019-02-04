@@ -19,15 +19,9 @@
 
 決定ボタン　　カード選択　　メニュー選択　ホバー時View
 
-<img src="" width="120px"><img src="" width="120px"><img src="" width="120px"><img src="" width="120px">
-
 ##### スマホ　タップ
 
 決定ボタン　　カード選択　　メニュー選択　長押し時View
-
-<img src="" width="120px"><img src="" width="120px"><img src="" width="120px"><img src="" width="120px">
-
-##### 
 
 ### ゲーム進行
 
