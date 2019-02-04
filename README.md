@@ -36,5 +36,5 @@
 
 ### イラスト　画集
 
-<img src="https://github.com/175B005/Morinohi/blob/master/%E3%82%82%E3%82%8A%E3%81%AE%E6%97%A5.png?raw=true" width="320px">
+<img src="https://github.com/175B005/Morinohi/blob/master/%E3%82%82%E3%82%8A%E3%81%AE%E6%97%A5.png?raw=true" width="320px" title="パッケージデザイン">
 
