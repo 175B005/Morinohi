@@ -3,7 +3,7 @@
 #### 専門学校デジタルアーツ東京　２０１９　０１　３１  
 #### 作成　ゲーム学科２年 二名　イラスト学科一年 一名
 
-[スマホ版 Android 8.0]()<l width="30px"></l>[PC(Windows10用)ビルドデータ](https://drive.google.com/open?id=1hm3QZ-aOlAoActNB-uRcRs6OGub2zxp7)
+[スマホ版 Android 8.0]()       [PC(Windows10用)ビルドデータ](https://drive.google.com/open?id=1hm3QZ-aOlAoActNB-uRcRs6OGub2zxp7)
 
 
 ### ゲーム紹介
