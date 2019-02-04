@@ -6,22 +6,30 @@
 [スマホ版 Android 8.0]() ::::::[PC(Windows10用)ビルドデータ](https://drive.google.com/open?id=1hm3QZ-aOlAoActNB-uRcRs6OGub2zxp7)
 
 
-### ゲーム紹介
+## ゲーム紹介
 
 [UnityRoom ゲーム投稿サイト](https://unityroom.com/games/morinohi_datgames)
 
 
-### 遊び方
+## 遊び方
 
-#### ゲーム操作
+### ゲーム操作
 
-| クリックorタップ　||||
-|d|d|||
-|||||
-|||d||
-|d||||
+##### PC版　Web版　クリック　
 
-#### ゲーム進行
+決定ボタン　　カード選択　　メニュー選択　ホバー時View
+
+<img src="" width="120px"><img src="" width="120px"><img src="" width="120px"><img src="" width="120px">
+
+##### スマホ　タップ
+
+決定ボタン　　カード選択　　メニュー選択　長押し時View
+
+<img src="" width="120px"><img src="" width="120px"><img src="" width="120px"><img src="" width="120px">
+
+##### 
+
+### ゲーム進行
 
 タイトルから「はじめる」を選択　　　－＞　　　セレクト画面で、項目を選択
 <img src="https://github.com/175B005/Morinohi/blob/master/d2.png?raw=true" width="360px">  <img src="https://github.com/175B005/Morinohi/blob/master/d1.png?raw=true" width="360px">
@@ -36,14 +44,14 @@
 <img src="https://github.com/175B005/Morinohi/blob/master/d5.png?raw=true" width="360px">  <img src="https://github.com/175B005/Morinohi/blob/master/d6.png?raw=true" width="360px">
 
 
-### 使用アセット
+## 使用アセット
 
 - [Anima2D](https://assetstore.unity.com/packages/essentials/unity-anima2d-79840): アニメーションの画像切り分け補助
 - [Vibrant Effect Textures Sample](https://assetstore.unity.com/packages/2d/textures-materials/abstract/vibrant-effect-textures-sample-35514): カードのエフェクト
 - [魔王魂](https://maoudamashii.jokersounds.com/) : BGM
 - [効果音ラボ](https://soundeffect-lab.info/) : SE
 
-### イラスト　画集
+## イラスト　画集
 
 <img src="https://github.com/175B005/Morinohi/blob/master/%E3%82%82%E3%82%8A%E3%81%AE%E6%97%A5.png?raw=true" width="320px" title="パッケージデザイン">
 
