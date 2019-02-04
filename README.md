@@ -34,10 +34,10 @@
 
 ### 使用アセット
 
-<li link = "https://assetstore.unity.com/packages/essentials/unity-anima2d-79840"><p >「Anima2D」: アニメーションの画像切り分け補助</p> </li>
-<li alt = "https://assetstore.unity.com/packages/2d/textures-materials/abstract/vibrant-effect-textures-sample-35514"><p>Vibrant Effect Textures Sample: カードのエフェクト</p></li>
-<li>[魔王魂](https://maoudamashii.jokersounds.com/) : BGM</li>
-<li>[効果音ラボ](https://soundeffect-lab.info/) : SE</li>
+- [Anima2D](https://assetstore.unity.com/packages/essentials/unity-anima2d-79840): アニメーションの画像切り分け補助
+- [Vibrant Effect Textures Sample](https://assetstore.unity.com/packages/2d/textures-materials/abstract/vibrant-effect-textures-sample-35514): カードのエフェクト
+- [魔王魂](https://maoudamashii.jokersounds.com/) : BGM
+- [効果音ラボ](https://soundeffect-lab.info/) : SE
 
 ### イラスト　画集
 
